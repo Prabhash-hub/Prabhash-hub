@@ -1,42 +1,33 @@
-# Hi 👋, I'm Prabhash Verma
+# Prabhash Verma
 
-🎓 M.Tech Data Science Student at DAVV, Indore
+M.Tech Data Science Student | Machine Learning Enthusiast | Aspiring AI Engineer
 
-💡 Passionate about:
+I am passionate about solving real-world problems using Data Science and Machine Learning. Currently building projects in predictive analytics, deep learning, and MLOps while exploring scalable AI systems.
+
+## Skills
+- Python
+- SQL
 - Machine Learning
 - Deep Learning
-- Data Science
-- MLOps
-- Data Analytics
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Scikit-Learn
 
-🌱 Currently Learning:
-- Advanced Machine Learning
-- Deep Learning
+## Current Focus
+- End-to-End ML Projects
 - MLOps
-- System Design for AI
+- Model Deployment
+- Generative AI
 
-🚀 Projects
-- House Price Prediction using Machine Learning
+## Projects
+- House Price Prediction
+- Customer Churn Prediction
+- Sales Forecasting
 - Data Visualization Dashboards
-- Predictive Analytics Projects
 
-🛠️ Skills
+## Contact
+📧 vprabhash4@gmail.com
 
-Python | SQL | Machine Learning | Deep Learning | Power BI | Tableau | Pandas | NumPy | Scikit-Learn
-
-📫 Connect with Me
-
-- Email: vprabhash4@gmail.com
-- GitHub: https://github.com/Prabhash-hub
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhash-hub&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhash-hub&layout=compact)
-
----
-
-⭐ Open to Data Science, Machine Learning and AI Internship Opportunities.
+"Learning, Building, Improving."
